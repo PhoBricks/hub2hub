@@ -15,7 +15,7 @@ Complexity: low (classroom-proof)
 BLE (beta): 
 Communication: wireless (direct)
 Prog-Language: python
-Complexity: very high
+Complexity: medium
 
 
 Uarty:
