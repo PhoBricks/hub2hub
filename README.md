@@ -6,62 +6,65 @@ Thanks a lot to the FB Community for the feedback and support, especially the Ro
 Special Credits and Authors are listed by the different solutions
 
 
-OpenWorld: 
-Communiction: wireless (use of opensource 3rd-party software on an other device)
-Prog-Language: block, python
-Complexity: low (classroom-proof)
+## OpenWorld: 
+- Communiction: wireless (use of opensource 3rd-party software on an other device)
+- Prog-Language: block, python
+- Complexity: low (classroom-proof)
+- Credits: Dimi
 
 
-BLE (beta): 
-Communication: wireless (direct)
-Prog-Language: python
-Complexity: medium
+## BLE (beta): 
+- Communication: wireless (direct)
+- Prog-Language: python
+- Complexity: medium
+- Credits: Nard, Dimi
 
 
-Uarty:
-Communication: wired (use of customized powerup-cable)
-Prog-Language: python
-Complexity: high
+## UART:
+- Communication: wired (use of customized powerup-cable)
+- Prog-Language: python
+- Complexity: high
 
-PyLights(beta):
-Communication: PowerUP LED to LightSensor
-Prog-Language: sender(pybricks), recv(block, python, pybricks)
-Complexity: low
+## PyLights(beta):
+- Communication: PowerUP LED to LightSensor
+- Prog-Language: sender(pybricks), recv(block, python, pybricks)
+- Complexity: low
+- Credits: pybricks
 
-Gestures:
-Communication: Motor to Hub 
-Prog-Language: block, python
-Complexity: low
+## Gestures:
+- Communication: Motor to Hub 
+- Prog-Language: block, python
+- Complexity: low
 
-KnockKnock:
-Communication: Motor to Hub
-Prog-Language: block, python
-Complexity: medium
+## KnockKnock:
+- Communication: Motor to Hub
+- Prog-Language: block, python
+- Complexity: medium
 
-Color:
-Communication: Colored Brick to ColorSensor
-Prog-Language: block, python, pybricks
-Complexity: low (classroom proof)
+## Color:
+- Communication: Colored Brick to ColorSensor
+- Prog-Language: block, python, pybricks
+- Complexity: low (classroom proof)
 
-Distance:
-Communication: Distance to DistanceSensor
-Prog-Language: block, python, pybricks
-Complexity: low (classroom proof)
+## Distance:
+- Communication: Distance to DistanceSensor
+- Prog-Language: block, python, pybricks
+- Complexity: low (classroom proof)
 
-Distance2Color:
-Communication: Distance to ColorSensor
-Prog-Language: block, python, pybricks
-Complexity: low (classroom proof)
+## Distance2Color:
+- Communication: Distance to ColorSensor
+- Prog-Language: block, python, pybricks
+- Complexity: low (classroom proof)
 
-Color2Color:
-Communication: ColorSensor to ColorSensor
-Prog-Language: python
-Complexity: medium
+## Color2Color:
+- Communication: ColorSensor to ColorSensor
+- Prog-Language: python
+- Complexity: medium
 
-Turn:
-Communication: Motor to Hub 
-Prog-Language: block, python
-Complexity: low
+## Turn:
+- Communication: Motor to Hub 
+- Prog-Language: block, python
+- Complexity: low
 
 
 
