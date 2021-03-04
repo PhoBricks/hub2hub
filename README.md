@@ -17,7 +17,13 @@ Special Credits and Authors are listed by the different solutions
 - Communication: wireless (direct)
 - Prog-Language: python
 - Complexity: medium
+- Files: 
+  - [Sender Code] (./h2h_ble_sender.llsp)
+  - [Receiver Code] (./h2h_ble_receiver.llsp)
+  - instruction/library-links coming soon
+- Video: [SPIKE Hub2Hub BLE Example] (https://youtu.be/ASUmDYYeX6E)
 - Credits: Nard, Dimi
+
 
 
 ## UART:
