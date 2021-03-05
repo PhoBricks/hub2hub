@@ -10,6 +10,11 @@ Special Credits and Authors are listed by the different solutions
 - Communiction: wireless (use of opensource 3rd-party software on an other device)
 - Prog-Language: block, python
 - Complexity: low (classroom-proof)
+- Files:
+  - [Sender Code]
+  - [Reicever Code]
+  - instruction-Files coming soon
+- Video: [SPIKE Hub2Hub OpenWorld Example] (https://youtu.be/x4KoTypLORc)
 - Credits: Dimi
 
 
