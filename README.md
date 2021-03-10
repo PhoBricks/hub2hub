@@ -18,16 +18,16 @@ Special Credits and Authors are listed by the different solutions
 - Credits: Dimi
 
 
-## BLE (beta): 
+## BLE: 
 - Communication: wireless (direct)
 - Prog-Language: python
 - Complexity: medium
 - Files: 
-  - [Sender Code] (https://github.com/PhoBricks/hub2hub/blob/main/h2h_ble_sender.llsp)
-  - [Receiver Code] (https://github.com/PhoBricks/hub2hub/blob/main/h2h_ble_receiver.llsp)
-  - instruction/library-links coming soon
+  - Sender Code (gets updated to the new library)
+  - Receiver Code (gets updated to the new library)
+  - instruction/library from Nard Strijbosch (https://hubmodule.readthedocs.io/en/latest/hub2hub/)
 - Video: [SPIKE Hub2Hub BLE Example] (https://youtu.be/ASUmDYYeX6E)
-- Credits: Nard, Dimi
+- Credits: Nard Strijbosch, Dimi
 
 
 
