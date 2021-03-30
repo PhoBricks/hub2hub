@@ -13,7 +13,7 @@ Special Credits and Authors are listed by the different solutions
 - Files:
   - [Sender Code] (https://github.com/PhoBricks/hub2hub/blob/main/h2h_openworld_sender.llsp)
   - [Reicever Code] (https://github.com/PhoBricks/hub2hub/blob/main/h2h_openworld_receiver.llsp)
-  - instruction-Files coming soon
+  - [instruction-Files] (https://github.com/PhoBricks/hub2hub/blob/main/h2h_OpenWorld.pdf)
 - Video: [SPIKE Hub2Hub OpenWorld Example] (https://youtu.be/x4KoTypLORc)
 - Credits: Dimi
 
